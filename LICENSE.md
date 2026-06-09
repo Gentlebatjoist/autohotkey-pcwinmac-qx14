@@ -1,4 +1,4 @@
-# 
+# 安全 AutoHotkey 脚本 Mac OS版 | 原生 AutoHotkey 脚本 PC Windows版。集成 数据缓存 和 自定义主题，跨平台性能最大化。
 
 
 
